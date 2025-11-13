@@ -1,3 +1,3 @@
 export const links = {
-  sourceCode: "https://github.com/Smartty23/brainview",
+  sourceCode: "https://github.com/Smartty23/brainwave-main",
 };
