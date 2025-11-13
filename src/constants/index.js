@@ -305,7 +305,7 @@ export const socials = [
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "https://twitter.com",
+    url: "https://twitter.com/Smartty23",
   },
   {
     id: "2",
@@ -317,12 +317,12 @@ export const socials = [
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "https://telegram.org",
+    url: "https://wa.me/2348062923229",
   },
   {
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "https://www.facebook.com",
+    url: "https://github.com/Smartty23",
   },
 ];

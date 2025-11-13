@@ -5,8 +5,9 @@
 ![Brainwave - Modern Animated SaaS Generative AI Landing Page](/.github/images/img_main.png "Brainwave - Modern Animated SaaS Generative AI Landing Page")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/Smartty23 "Ask Me Anything!")
-[![GitHub license](https://github.com/Smartty23)](https://github.com/Smartty23 "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Smartty23 "Maintenance")
+[![GitHub license](https://img.shields.io/github/license/Smartty23/brainview)](https://github.com/Smartty23/brainview "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/Smartty23/brainview "Maintenance")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2348062923229 "Contact on WhatsApp")
 
 
 <!-- Table of Contents -->
@@ -149,15 +150,19 @@ Useful resources and dependencies that are used in Brainwave.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
 - [vite](https://www.npmjs.com/package/vite): ^5.1.4
 
-## :coffee: Buy Me a Coffee
+## :rocket: Connect With Me
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smartty23 "Follow on GitHub")
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348062923229 "Contact on WhatsApp")
 
-## :rocket: Follow Me
+## :technologist: About Me
 
-[![Follow Me](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fbrainwave "Tweet about this project")
-[![Subscribe to my YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER./?sub_confirmation=1 "Subscribe to my YouTube Channel")
+Hi, I'm **Abraham** - a passionate developer interested in coding and blockchain technology. Currently learning Web3, Solidity, and exploring the decentralized web. I love building projects with JavaScript, Python, and Java. Always open to collaboration and learning new things!
+
+- 🔭 Currently learning: Blockchain, Web3, Solidity
+- 💻 Tech Stack: JavaScript, Python, Java
+- 🤝 Open to collaborate on innovative projects
+- 🎵 Fun fact: Music lover and continuous learner
 
 ## :books: Learn More
 
@@ -187,11 +192,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/brainwave&Timeline">
+<a href="https://star-history.com/#Smartty23/brainview&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/brainwave&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Smartty23/brainview&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Smartty23/brainview&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Smartty23/brainview&type=Timeline" />
 </picture>
 </a>
 

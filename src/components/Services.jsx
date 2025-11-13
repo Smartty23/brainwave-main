@@ -113,11 +113,10 @@ const Services = () => {
                   {brainwaveServicesIcons.map((icon, i) => (
                     <li
                       key={i}
-                      className={`flex items-center justify-center rounded-2xl ${
-                        i === 2
+                      className={`flex items-center justify-center rounded-2xl ${i === 2
                           ? "w-[3rem] h-[3rem] p-0.25 bg-conic-gradient md:w-[4.5rem] md:h-[4.5rem]"
                           : "flex w-10 h-10 bg-n-6 md:w-15 md:h-15"
-                      }`}
+                        }`}
                     >
                       <div
                         className={
@@ -141,9 +140,8 @@ const Services = () => {
               <div className="relative h-[20rem] bg-n-8 rounded-xl overflow-hidden md:h-[25rem]">
                 <img
                   src={service3}
-                  className={`w-full h-full object-cover ${
-                    isPlaying && "animate-pulse"
-                  } pointer-events-none select-none`}
+                  className={`w-full h-full object-cover ${isPlaying && "animate-pulse"
+                    } pointer-events-none select-none`}
                   width={520}
                   height={400}
                   alt="Scary Robot"
